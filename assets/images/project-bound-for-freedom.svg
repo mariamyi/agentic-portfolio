@@ -1,12 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Bound for Freedom (placeholder image)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" preserveAspectRatio="xMidYMid slice">
 <rect width="640" height="400" fill="#fbf4e6"/>
-<g transform="translate(358 370) rotate(168) scale(1.50) translate(-50 -50)" fill="#0e4585" opacity="0.69"><path d="M30 20 Q70 10 75 45 Q80 80 45 82 Q15 84 18 50 Q20 28 30 20 Z"/></g>
-<g transform="translate(118 205) rotate(227) scale(1.77) translate(-50 -50)" fill="#e94f37" opacity="0.82"><path d="M50 8 C70 8 86 26 84 48 C82 70 64 88 44 86 C22 84 10 64 16 42 C22 22 32 8 50 8 Z"/></g>
-<g transform="translate(194 36) rotate(291) scale(0.79) translate(-50 -50)" fill="#1357a6" opacity="0.78"><path d="M20 50 C20 26 40 12 58 20 C74 27 78 48 70 64 C62 80 40 86 28 74 C18 64 20 60 20 50 Z"/></g>
-<g transform="translate(629 386) rotate(235) scale(0.68) translate(-50 -50)" fill="#f4b41a" opacity="0.74"><path d="M50 10 C58 30 80 34 80 50 C80 66 58 70 50 90 C42 70 20 66 20 50 C20 34 42 30 50 10 Z"/></g>
-<g transform="translate(10 211) rotate(21) scale(0.91) translate(-50 -50)" fill="#2a9d5c" opacity="0.54"><path d="M30 20 Q70 10 75 45 Q80 80 45 82 Q15 84 18 50 Q20 28 30 20 Z"/></g>
-<g transform="translate(19 186) rotate(159) scale(1.08) translate(-50 -50)" fill="#e06c9f" opacity="0.85"><path d="M50 8 C70 8 86 26 84 48 C82 70 64 88 44 86 C22 84 10 64 16 42 C22 22 32 8 50 8 Z"/></g>
-<g transform="translate(410 200) rotate(238) scale(1.64) translate(-50 -50)" fill="#0e4585" opacity="0.66"><path d="M20 50 C20 26 40 12 58 20 C74 27 78 48 70 64 C62 80 40 86 28 74 C18 64 20 60 20 50 Z"/></g>
-<rect x="0" y="342" width="640" height="58" fill="#1e1b18"/>
-<text x="24" y="378" fill="#fbf4e6" font-family="Georgia, serif" font-size="24" font-weight="600">Bound for Freedom</text>
+<g transform="translate(351 336) rotate(168) scale(1.47) translate(-50 -50)" fill="#0e4585" opacity="0.71"><path d="M30 20 Q70 10 75 45 Q80 80 45 82 Q15 84 18 50 Q20 28 30 20 Z"/></g>
+<g transform="translate(159 204) rotate(227) scale(1.70) translate(-50 -50)" fill="#e94f37" opacity="0.83"><path d="M50 8 C70 8 86 26 84 48 C82 70 64 88 44 86 C22 84 10 64 16 42 C22 22 32 8 50 8 Z"/></g>
+<g transform="translate(219 69) rotate(291) scale(0.86) translate(-50 -50)" fill="#1357a6" opacity="0.79"><path d="M20 50 C20 26 40 12 58 20 C74 27 78 48 70 64 C62 80 40 86 28 74 C18 64 20 60 20 50 Z"/></g>
+<g transform="translate(567 349) rotate(235) scale(0.77) translate(-50 -50)" fill="#f4b41a" opacity="0.76"><path d="M50 10 C58 30 80 34 80 50 C80 66 58 70 50 90 C42 70 20 66 20 50 C20 34 42 30 50 10 Z"/></g>
+<g transform="translate(72 209) rotate(21) scale(0.97) translate(-50 -50)" fill="#2a9d5c" opacity="0.58"><path d="M30 20 Q70 10 75 45 Q80 80 45 82 Q15 84 18 50 Q20 28 30 20 Z"/></g>
+<g transform="translate(79 188) rotate(159) scale(1.11) translate(-50 -50)" fill="#e06c9f" opacity="0.85"><path d="M50 8 C70 8 86 26 84 48 C82 70 64 88 44 86 C22 84 10 64 16 42 C22 22 32 8 50 8 Z"/></g>
 </svg>

@@ -1,12 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Face to Face with Slavery (placeholder image)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" preserveAspectRatio="xMidYMid slice">
 <rect width="640" height="400" fill="#fbf4e6"/>
-<g transform="translate(274 231) rotate(74) scale(1.74) translate(-50 -50)" fill="#e06c9f" opacity="0.83"><path d="M50 10 C58 30 80 34 80 50 C80 66 58 70 50 90 C42 70 20 66 20 50 C20 34 42 30 50 10 Z"/></g>
-<g transform="translate(418 64) rotate(187) scale(2.25) translate(-50 -50)" fill="#0e4585" opacity="0.6"><path d="M30 20 Q70 10 75 45 Q80 80 45 82 Q15 84 18 50 Q20 28 30 20 Z"/></g>
-<g transform="translate(610 399) rotate(16) scale(1.10) translate(-50 -50)" fill="#e94f37" opacity="0.85"><path d="M50 8 C70 8 86 26 84 48 C82 70 64 88 44 86 C22 84 10 64 16 42 C22 22 32 8 50 8 Z"/></g>
-<g transform="translate(244 113) rotate(243) scale(1.81) translate(-50 -50)" fill="#1357a6" opacity="0.66"><path d="M20 50 C20 26 40 12 58 20 C74 27 78 48 70 64 C62 80 40 86 28 74 C18 64 20 60 20 50 Z"/></g>
-<g transform="translate(424 53) rotate(276) scale(1.97) translate(-50 -50)" fill="#f4b41a" opacity="0.91"><path d="M50 10 C58 30 80 34 80 50 C80 66 58 70 50 90 C42 70 20 66 20 50 C20 34 42 30 50 10 Z"/></g>
-<g transform="translate(393 18) rotate(1) scale(2.54) translate(-50 -50)" fill="#2a9d5c" opacity="0.51"><path d="M30 20 Q70 10 75 45 Q80 80 45 82 Q15 84 18 50 Q20 28 30 20 Z"/></g>
-<g transform="translate(194 146) rotate(323) scale(2.48) translate(-50 -50)" fill="#e06c9f" opacity="0.6"><path d="M50 8 C70 8 86 26 84 48 C82 70 64 88 44 86 C22 84 10 64 16 42 C22 22 32 8 50 8 Z"/></g>
-<rect x="0" y="342" width="640" height="58" fill="#1e1b18"/>
-<text x="24" y="378" fill="#fbf4e6" font-family="Georgia, serif" font-size="24" font-weight="600">Face to Face with Slavery</text>
+<g transform="translate(284 225) rotate(74) scale(1.67) translate(-50 -50)" fill="#e06c9f" opacity="0.84"><path d="M50 10 C58 30 80 34 80 50 C80 66 58 70 50 90 C42 70 20 66 20 50 C20 34 42 30 50 10 Z"/></g>
+<g transform="translate(399 91) rotate(187) scale(2.10) translate(-50 -50)" fill="#0e4585" opacity="0.64"><path d="M30 20 Q70 10 75 45 Q80 80 45 82 Q15 84 18 50 Q20 28 30 20 Z"/></g>
+<g transform="translate(552 359) rotate(16) scale(1.12) translate(-50 -50)" fill="#e94f37" opacity="0.86"><path d="M50 8 C70 8 86 26 84 48 C82 70 64 88 44 86 C22 84 10 64 16 42 C22 22 32 8 50 8 Z"/></g>
+<g transform="translate(259 131) rotate(243) scale(1.73) translate(-50 -50)" fill="#1357a6" opacity="0.69"><path d="M20 50 C20 26 40 12 58 20 C74 27 78 48 70 64 C62 80 40 86 28 74 C18 64 20 60 20 50 Z"/></g>
+<g transform="translate(403 83) rotate(276) scale(1.87) translate(-50 -50)" fill="#f4b41a" opacity="0.91"><path d="M50 10 C58 30 80 34 80 50 C80 66 58 70 50 90 C42 70 20 66 20 50 C20 34 42 30 50 10 Z"/></g>
+<g transform="translate(378 54) rotate(1) scale(2.35) translate(-50 -50)" fill="#2a9d5c" opacity="0.56"><path d="M30 20 Q70 10 75 45 Q80 80 45 82 Q15 84 18 50 Q20 28 30 20 Z"/></g>
 </svg>

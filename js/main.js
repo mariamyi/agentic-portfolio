@@ -59,8 +59,10 @@
     projects.forEach(function (p) {
       var themes = (p.getAttribute("data-themes") || "").split(/\s+/);
       var match = !theme || themes.indexOf(theme) !== -1;
-      p.classList.toggle("is-dimmed", !!theme && !match);
-      if (match) shown++;
+      p.classList.toggle("is-hidden", !!theme && !match);
+      // Ensure matching cards are visible even if their reveal animation
+      // hadn't triggered yet (they may have been below the fold).
+      if (match) { p.classList.add("is-visible"); shown++; }
     });
     if (status) {
       if (theme) {
@@ -81,7 +83,7 @@
         });
         status.appendChild(clear);
       } else {
-        status.textContent = "Click a theme above to highlight related projects.";
+        status.textContent = "Showing all projects. Select a theme above to filter.";
       }
     }
   }
@@ -91,7 +93,7 @@
     applyProjectFilter(e.detail && e.detail.theme);
   });
   if (status && gallery) {
-    status.textContent = "Click a theme above to highlight related projects.";
+    status.textContent = "Select a theme above to filter the projects.";
   }
 
   /* ---- Publications type filter -------------------------------------- */

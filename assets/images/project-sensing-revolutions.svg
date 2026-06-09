@@ -1,12 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Sensing Revolutions (placeholder image)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" preserveAspectRatio="xMidYMid slice">
 <rect width="640" height="400" fill="#fbf4e6"/>
-<g transform="translate(450 261) rotate(339) scale(0.81) translate(-50 -50)" fill="#f4b41a" opacity="0.58"><path d="M50 10 C58 30 80 34 80 50 C80 66 58 70 50 90 C42 70 20 66 20 50 C20 34 42 30 50 10 Z"/></g>
-<g transform="translate(470 263) rotate(109) scale(1.11) translate(-50 -50)" fill="#2a9d5c" opacity="0.77"><path d="M30 20 Q70 10 75 45 Q80 80 45 82 Q15 84 18 50 Q20 28 30 20 Z"/></g>
-<g transform="translate(498 47) rotate(80) scale(1.39) translate(-50 -50)" fill="#e06c9f" opacity="0.87"><path d="M50 8 C70 8 86 26 84 48 C82 70 64 88 44 86 C22 84 10 64 16 42 C22 22 32 8 50 8 Z"/></g>
-<g transform="translate(167 322) rotate(227) scale(1.32) translate(-50 -50)" fill="#0e4585" opacity="0.52"><path d="M20 50 C20 26 40 12 58 20 C74 27 78 48 70 64 C62 80 40 86 28 74 C18 64 20 60 20 50 Z"/></g>
-<g transform="translate(425 66) rotate(235) scale(1.70) translate(-50 -50)" fill="#e94f37" opacity="0.51"><path d="M50 10 C58 30 80 34 80 50 C80 66 58 70 50 90 C42 70 20 66 20 50 C20 34 42 30 50 10 Z"/></g>
-<g transform="translate(53 82) rotate(352) scale(1.27) translate(-50 -50)" fill="#1357a6" opacity="0.64"><path d="M30 20 Q70 10 75 45 Q80 80 45 82 Q15 84 18 50 Q20 28 30 20 Z"/></g>
-<g transform="translate(281 243) rotate(314) scale(2.58) translate(-50 -50)" fill="#f4b41a" opacity="0.77"><path d="M50 8 C70 8 86 26 84 48 C82 70 64 88 44 86 C22 84 10 64 16 42 C22 22 32 8 50 8 Z"/></g>
-<rect x="0" y="342" width="640" height="58" fill="#1e1b18"/>
-<text x="24" y="378" fill="#fbf4e6" font-family="Georgia, serif" font-size="24" font-weight="600">Sensing Revolutions</text>
+<g transform="translate(424 249) rotate(339) scale(0.88) translate(-50 -50)" fill="#f4b41a" opacity="0.61"><path d="M50 10 C58 30 80 34 80 50 C80 66 58 70 50 90 C42 70 20 66 20 50 C20 34 42 30 50 10 Z"/></g>
+<g transform="translate(440 251) rotate(109) scale(1.13) translate(-50 -50)" fill="#2a9d5c" opacity="0.79"><path d="M30 20 Q70 10 75 45 Q80 80 45 82 Q15 84 18 50 Q20 28 30 20 Z"/></g>
+<g transform="translate(462 78) rotate(80) scale(1.37) translate(-50 -50)" fill="#e06c9f" opacity="0.88"><path d="M50 8 C70 8 86 26 84 48 C82 70 64 88 44 86 C22 84 10 64 16 42 C22 22 32 8 50 8 Z"/></g>
+<g transform="translate(197 297) rotate(227) scale(1.31) translate(-50 -50)" fill="#0e4585" opacity="0.56"><path d="M20 50 C20 26 40 12 58 20 C74 27 78 48 70 64 C62 80 40 86 28 74 C18 64 20 60 20 50 Z"/></g>
+<g transform="translate(404 93) rotate(235) scale(1.64) translate(-50 -50)" fill="#e94f37" opacity="0.55"><path d="M50 10 C58 30 80 34 80 50 C80 66 58 70 50 90 C42 70 20 66 20 50 C20 34 42 30 50 10 Z"/></g>
+<g transform="translate(107 105) rotate(352) scale(1.27) translate(-50 -50)" fill="#1357a6" opacity="0.67"><path d="M30 20 Q70 10 75 45 Q80 80 45 82 Q15 84 18 50 Q20 28 30 20 Z"/></g>
 </svg>
