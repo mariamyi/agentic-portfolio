@@ -276,8 +276,8 @@ img { max-width: 100%; display: block; }
 }
 .hero__portrait {
   justify-self: center;
-  width: min(460px, 100%);
-  aspect-ratio: 4 / 3;
+  width: min(520px, 100%);
+  aspect-ratio: 16 / 9;
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow);
   border: 3px solid var(--ink);
